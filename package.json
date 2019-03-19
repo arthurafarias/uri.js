@@ -1,0 +1,30 @@
+{
+  "name": "uri",
+  "version": "0.0.1",
+  "description": "A pure Javascript base implementation to a URI lexer and parser.",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurafarias/uri.js.git"
+  },
+  "keywords": [
+    "URL",
+    "URI",
+    "Parser",
+    "Lexer",
+    "Javascript"
+  ],
+  "author": "Arthur de Araújo Farias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurafarias/uri.js/issues"
+  },
+  "homepage": "https://github.com/arthurafarias/uri.js#readme"
+}
