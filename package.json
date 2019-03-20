@@ -8,7 +8,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "node tests/main.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,10 @@
   "bugs": {
     "url": "https://github.com/arthurafarias/uri.js/issues"
   },
-  "homepage": "https://github.com/arthurafarias/uri.js#readme"
+  "homepage": "https://github.com/arthurafarias/uri.js#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
 }
